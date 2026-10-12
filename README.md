@@ -1,4 +1,4 @@
-# git-collab-game NIGER
+# git-collab-game 
 Prosta gra dla przećwiczenia współpracy w zespole podczas rozwijania jednego repozytorium
 
 ## ZESPÓŁ
