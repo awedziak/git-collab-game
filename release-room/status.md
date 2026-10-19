@@ -2,4 +2,4 @@
 
 Wersja: 1.0
 Stan wydania: ZABLOKOWANE
-Decyzja wdrożeniowa: awedziak
+Decyzja wdrożeniowa: WDRAŻAMY W PIĄTEK
