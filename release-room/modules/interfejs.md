@@ -1,5 +1,5 @@
 # Moduł interfejs
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Odpowiedzialny: awedziak
+Stan: GOTOWY
+Opis zmiany: zmiana tresci
